@@ -1,0 +1,141 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <Style x:Key="NavBarListBoxStyle" TargetType="ListBox">
+        <Setter Property="Background" Value="#2C3E50"/>
+        <Setter Property="BorderBrush" Value="#2C3E50"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Margin" Value="0,5,0,0"/>
+        <Setter Property="Padding" Value="10"/>
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="ItemsPanel">
+            <Setter.Value>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="ItemContainerStyle">
+            <Setter.Value>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    <Setter Property="Padding" Value="15,10"/>
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#34495E"/>
+                        </Trigger>
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter Property="Background" Value="#3498DB"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ListBox">
+                    <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" CornerRadius="5">
+                        <ItemsPresenter/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="LoginPageGridStyle" TargetType="Grid">
+        <Setter Property="Background" Value="#3498DB"/>
+    </Style>
+
+    <Style x:Key="LoginPageTextBoxStyle" TargetType="TextBox">
+        <Setter Property="Background" Value="#ECF0F1"/>
+        <Setter Property="Foreground" Value="#34495E"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Margin" Value="10"/>
+        <Setter Property="Padding" Value="10"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="MinWidth" Value="200"/>
+        <Setter Property="MinHeight" Value="30"/>
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="TextBox">
+                    <Grid>
+                    <Border BorderBrush="#3498DB" BorderThickness="1" Background="{TemplateBinding Background}" CornerRadius="5">
+                        <ScrollViewer x:Name="PART_ContentHost"/>
+                    </Border>
+                    <TextBlock x:Name="PlaceholderText" Text="{TemplateBinding Name}" 
+                               Foreground="#7F8C8D" Margin="10,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" Visibility="Collapsed"/>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="Text" Value="">
+                            <Setter TargetName="PlaceholderText" Property="Visibility" Value="Visible"/>
+                        </Trigger>
+                        <Trigger Property="IsFocused" Value="True">
+                            <Setter TargetName="PlaceholderText" Property="Visibility" Value="Collapsed"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="LoginPagePasswordBoxStyle" TargetType="PasswordBox">
+        <Setter Property="Background" Value="#ECF0F1"/>
+        <Setter Property="Foreground" Value="#34495E"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Margin" Value="10"/>
+        <Setter Property="Padding" Value="10"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="MinWidth" Value="200"/>
+        <Setter Property="MinHeight" Value="30"/>
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="PasswordBox">
+                    <Grid>
+                        <Border BorderBrush="#3498DB" BorderThickness="1" Background="{TemplateBinding Background}" CornerRadius="5">
+                            <ScrollViewer x:Name="PART_ContentHost"/>
+                        </Border>
+                        <TextBlock x:Name="PlaceholderText" Text="{TemplateBinding Name}" 
+                        Foreground="#7F8C8D" Margin="10,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" Visibility="Collapsed"/>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="PasswordChar" Value="">
+                            <Setter TargetName="PlaceholderText" Property="Visibility" Value="Visible"/>
+                        </Trigger>
+                        <Trigger Property="IsFocused" Value="True">
+                            <Setter TargetName="PlaceholderText" Property="Visibility" Value="Collapsed"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="LoginPageButtonStyle" TargetType="Button">
+        <Setter Property="Background" Value="YellowGreen"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="Margin" Value="10"/>
+        <Setter Property="Padding" Value="10"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="MinWidth" Value="200"/>
+        <Setter Property="MinHeight" Value="40"/>
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="#2980B9"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+</ResourceDictionary>

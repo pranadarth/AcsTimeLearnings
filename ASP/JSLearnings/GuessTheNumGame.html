@@ -1,0 +1,69 @@
+<h1>Guess the Number betweem 1 to 10!!</h1>
+<input  id="guess" type="number" min="1" max="10"  value="0"> 
+<button onclick="check()">Check</button>
+<h1 id="total"> Chance left: 3</h1>
+
+<script>
+    var a = Math.floor(Math.random()*10)+1
+    var num = document.getElementById("guess")
+    var result = document.getElementById("total")
+    var chance = 3
+    function check()
+    {
+        
+        
+        if(chance-- < 1)
+        {
+            alert("You lost!.. try again! \nCorrect Number: "+a)
+            location.reload()
+        }
+        else if( num.value == a)
+        {
+            alert("hoora!!.. You won")
+            location.reload()
+        }
+        else
+        {
+            result.textContent = "Wrong!!.. Chance left: "+chance
+        }
+    }
+</script>
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f4f4;
+        text-align: center;
+        margin: 50px;
+    }
+
+    h1 {
+        color: #333;
+    }
+
+    input {
+        padding: 10px;
+        font-size: 16px;
+        margin: 10px;
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #208f24;
+        color: #fff;
+        border: none;
+        border-radius: 5%;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #76ca7a;
+    }
+
+    #total {
+        color: #111111;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+</style>

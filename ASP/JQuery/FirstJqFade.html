@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <script src="jquery.js"></script>
+    </head>
+    <body>
+        <p id="test">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur amet corrupti cumque nihil voluptatum pariatur totam aperiam quos, debitis doloremque aut reiciendis eligendi expedita accusantium ipsa obcaecati rem hic. Voluptates.</p>
+       <button  onclick="toggle()">Fade toggle</button>
+
+        <script>
+            $("#test").click(function(){
+                alert("clicked")
+                $(this).hide()
+            })
+            function toggle()
+            {
+                $("#test").fadeToggle(3000)
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+<h1 id="show"></h1>
+<button id="pr" onclick="update(event)">Pranav</button>
+<button onclick="update(event)">hari</button>
+<button onclick="update(event)">John</button>
+<script>
+    var a = document.getElementById("show")
+    function update(halo)
+    {
+        a.textContent = halo.target.textContent
+    }
+</script>

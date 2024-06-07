@@ -1,0 +1,89 @@
+
+{
+
+	"Prison": {
+
+		"WeekCycle": 4,
+
+		"WeekStartDay": "Sunday",
+
+		"InputDirectory": ""
+
+	},
+
+	"MealSelection": {
+
+		"Breafast": {
+
+			"Main": "required",
+
+			"Side": "optional",
+
+			"Sweet": "optional"
+
+		},
+
+		"Lunch": {
+
+			"Main": "required",
+
+			"Side": "optional",
+
+			"Sweet": "optional"
+
+		},
+
+		"Tea": {
+
+			"Main": "required",
+
+			"Side": "optional",
+
+			"Sweet": "optional"
+
+		}
+
+	},
+
+	"MealOptions": {
+
+		"Main": [
+
+			1,
+
+			2,
+
+			3,
+
+			4,
+
+			5,
+
+			6,
+
+			7
+
+		],
+
+		"Side": [
+
+			"A",
+
+			"B",
+
+			"C"
+
+		],
+
+		"Sweet ": [
+
+			"D",
+
+			"E"
+
+		]
+
+	}
+
+}
+ 

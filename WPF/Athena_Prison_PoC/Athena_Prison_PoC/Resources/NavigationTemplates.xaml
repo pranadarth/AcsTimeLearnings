@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:viewModels ="clr-namespace:Athena_Prison_PoC.ViewModel"
+                    xmlns:pages ="clr-namespace:Athena_Prison_PoC.Pages"
+                    xmlns:Controls ="clr-namespace:Athena_Prison_PoC.Controls"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+   
+    <DataTemplate DataType="{x:Type viewModels:HomeViewModel}">
+        <pages:HomePg />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type viewModels:ScannedViewModel}">
+        <pages:ScannedDataPg />
+    </DataTemplate>
+
+
+</ResourceDictionary>
