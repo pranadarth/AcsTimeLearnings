@@ -1,0 +1,9 @@
+C:\Clients\IFF\AVDSupervisorApp\bin\Release\net6.0-windows\publish\win-x64\AVDSupervisorApp.pdb
+C:\Clients\IFF\AVDSupervisorApp\bin\Release\net6.0-windows\publish\win-x64\D3DCompiler_47_cor3.dll
+C:\Clients\IFF\AVDSupervisorApp\bin\Release\net6.0-windows\publish\win-x64\PenImc_cor3.dll
+C:\Clients\IFF\AVDSupervisorApp\bin\Release\net6.0-windows\publish\win-x64\PresentationNative_cor3.dll
+C:\Clients\IFF\AVDSupervisorApp\bin\Release\net6.0-windows\publish\win-x64\vcruntime140_cor3.dll
+C:\Clients\IFF\AVDSupervisorApp\bin\Release\net6.0-windows\publish\win-x64\wpfgfx_cor3.dll
+C:\Clients\IFF\AVDSupervisorApp\bin\Release\net6.0-windows\publish\win-x64\msalruntime.dll
+C:\Clients\IFF\AVDSupervisorApp\bin\Release\net6.0-windows\publish\win-x64\WebView2Loader.dll
+C:\Clients\IFF\AVDSupervisorApp\bin\Release\net6.0-windows\publish\win-x64\AVDSupervisorApp.exe

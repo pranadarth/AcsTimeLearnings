@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\datas\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:datas\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\datas\\usersessionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:datas\\usersessionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\services\\hostpoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:services\\hostpoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\services\\azureauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:services\\azureauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|c:\\users\\pranadarthsureshbabu\\source\\repos\\official\\project\\avdsupervisorapp\\avdsupervisorapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9C9516E4-2874-4B1C-96E5-328CE4452836}|AVDSupervisorApp.csproj|solutionrelative:avdsupervisorapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T11:27:20.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAApwEcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:53:50.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Datas\\Config.cs",
+              "RelativeDocumentMoniker": "Datas\\Config.cs",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Datas\\Config.cs",
+              "RelativeToolTip": "Datas\\Config.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:53:50.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserSessionList.cs",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Datas\\UserSessionList.cs",
+              "RelativeDocumentMoniker": "Datas\\UserSessionList.cs",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Datas\\UserSessionList.cs",
+              "RelativeToolTip": "Datas\\UserSessionList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:55:50.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Resources\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T10:04:35.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Views\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADgvxwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:53:50.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HostPoolService.cs",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Services\\HostPoolService.cs",
+              "RelativeDocumentMoniker": "Services\\HostPoolService.cs",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Services\\HostPoolService.cs",
+              "RelativeToolTip": "Services\\HostPoolService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwvzAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:26:21.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T07:54:08.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AzureAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Services\\AzureAuthentication.cs",
+              "RelativeDocumentMoniker": "Services\\AzureAuthentication.cs",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\Services\\AzureAuthentication.cs",
+              "RelativeToolTip": "Services\\AzureAuthentication.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAcwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:53:50.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AVDSupervisorApp",
+              "DocumentMoniker": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\AVDSupervisorApp.csproj",
+              "RelativeDocumentMoniker": "AVDSupervisorApp.csproj",
+              "ToolTip": "C:\\Users\\pranadarthSureshBabu\\source\\repos\\Official\\project\\AVDSupervisorApp\\AVDSupervisorApp.csproj",
+              "RelativeToolTip": "AVDSupervisorApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T08:53:22.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

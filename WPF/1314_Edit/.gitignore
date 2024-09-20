@@ -1,0 +1,11 @@
+/AthenaApi/Athena.Application/bin
+/AthenaApi/Athena.Application/obj
+/AthenaApi/Athena.Domain/bin
+/AthenaApi/Athena.Domain/obj
+/AthenaApi/Athena.Infrastructure/bin
+/AthenaApi/Athena.Infrastructure/obj
+/AthenaApi/Athena.WebApi/bin
+/AthenaApi/Athena.WebApi/obj
+/AthenaApi/Athena.WebApi/Athena.WebApi.csproj.user
+/AthenaApi/.vs
+/AthenaApi/Athena.WebApi/Properties/PublishProfiles
